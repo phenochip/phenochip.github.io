@@ -61,18 +61,29 @@ background: url(images/big.jpg) left top no-repeat;
 		color:#FFFFFF;
 		font-size:18px;
 		font-style:italic;
-		padding: 88px 0px 0px 460px;
+		//padding: 88px 0px 0px 460px;
+		padding: 150px 0px 0px 60px;
 		background: url(images/big_img.jpg) left top no-repeat;
 		height: 192px;
 }
 
 #logo a {
 	text-decoration: none;
-	text-transform: lowercase;
+	//text-transform: lowercase;
 	font-style: italic;
-	font-size: 18px;
+	font-size: 98px;
 	color: #FFFFFF;
+	//color: #074959;
 }
+#logo ax {
+	text-decoration: none;
+	//text-transform: lowercase;
+	font-style: italic;
+	font-size: 25px;
+	color: #FFFFFF;
+	//color: #074959;
+}
+
 
 
 #logo H2 a{
